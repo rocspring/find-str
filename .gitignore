@@ -1,0 +1,17 @@
+.git
+.idea
+.project
+.settings
+.DS_Store
+
+*~
+*.diff
+*.patch
+*.log
+
+bower_components/
+node_modules/
+data/fans/
+data/follwers/
+**/data/fans/
+**/data/follwers/
